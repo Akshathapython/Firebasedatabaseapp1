@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377322991960",
+    "project_id": "dbapp-70cef",
+    "storage_bucket": "dbapp-70cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377322991960:android:cbe0a768df18086e2e352d",
+        "android_client_info": {
+          "package_name": "com.databaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377322991960-8jqif7q1rv10prsqf6at1c2juovo8ltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwuOoj2T88DtV6T9NSJj29rOpGo6d7oEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377322991960-8jqif7q1rv10prsqf6at1c2juovo8ltp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
